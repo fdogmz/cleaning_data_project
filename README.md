@@ -12,7 +12,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 and is saved in the "UCI HAR Dataset" folder.
 
-The process for the generation of the final table is described below. 
+In order to generate the final table, the script "run_analysis.R" should be executed. The process for the generation of the final table is described below. 
 
 * First the training and test data sets were merged (these files can be found at "UCI HAR Dataset/train" and "UCI HAR Dataset/test" espectively).
 * The names of the original variables were modified removing innecesary characters (some numbers, spaces, parenthesis,...).
